@@ -2,7 +2,7 @@ VERSION = 4
 PATCHLEVEL = 3
 SUBLEVEL = 0
 EXTRAVERSION =
-NAME = "Divemaster Edition"
+NAME = "Nicosoft Edition"
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
